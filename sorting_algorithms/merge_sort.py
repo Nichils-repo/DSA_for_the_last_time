@@ -45,3 +45,6 @@ def merge(left, right):
             result.append(right[j])
             j = j+1
 
+
+# time compleixyt = O(nlogn)
+# but pretty bad space complexity
